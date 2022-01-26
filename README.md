@@ -1,3 +1,6 @@
+In the recipe-list component I'm trying to loop through my recipes array built in the recipe-list.ts. It's using a model built in the recipe.model.
+I've checked for typos with no luck, I've tried putting randome text in the divs and they don't display. I know the file is properly connected because the button shows up on the page. 
+
 # CookingAidProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
